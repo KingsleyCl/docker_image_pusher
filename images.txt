@@ -9,4 +9,5 @@
 #--platform=linux/arm64 python:3.10.12-slim-bullseye
 #vllm/vllm-openai:v0.6.1
 #qwenllm/qwenvl:2.5-cu121
-labring/kubernetes-docker:v1.22.17-4.3.7
+#labring/kubernetes-docker:v1.22.17-4.3.7
+labring/kubernetes-docker:v1.20.15-4.3.7
