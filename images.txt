@@ -11,4 +11,5 @@
 #qwenllm/qwenvl:2.5-cu121
 #labring/kubernetes-docker:v1.22.17-4.3.7
 #labring/kubernetes-docker:v1.20.15-4.3.7
-vllm/vllm-openai:v0.8.5
+#vllm/vllm-openai:v0.8.5
+openeuler/vllm-ascend:0.8.4rc1-torch_npu2.5.1-cann8.0.0-python3.10-oe2203lts
